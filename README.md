@@ -1,2 +1,2 @@
 # tictactoe
-2 player tictacteo
+2 player tictactoe
